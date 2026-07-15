@@ -37,6 +37,9 @@
 
 ###
 
+<p align="center">  
+isfp 4w3 sp/sx 416 phlegmatic-mel chaotic neutral eii EVFL r[L]/U/aI aOhi[D]/E/g 
+
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=iwz5ivqfk4meassz2wh9vv0kg&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=iwz5ivqfk4meassz2wh9vv0kg&cover_image=true&theme=novatorem&show_offline=true&background_color=302c2c&interchange=true&profanity=false&hide_remaster=false&bar_color=4e4646&bar_color_cover=true">
