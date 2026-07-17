@@ -1,3 +1,5 @@
+<p align="center">  
+${\color{#948181}{⊹ ࣪ ˖ ꒰ঌ ໒꒱ }}$   
 
 <p data-importer="text" align="left"></p>
 
@@ -38,7 +40,9 @@
 ###
 
 <p align="center">  
-isfp 4w3 sp/sx 416 phlegmatic-mel chaotic neutral eii EVFL r[L]/U/aI aOhi[D]/E/g 
+${\color{#a18e89}{isfp}}$ ${\color{#a18e89}{4w3}}$ ${\color{#a18e89}{sp/sx}}$ ${\color{#a18e89}{416}}$ ${\color{#a18e89}{phleg-mel}}$ ${\color{#a18e89}{chaotneut}}$ ${\color{#a18e89}{EVFL²⁴²²}}$ ${\color{#a18e89}{r[L]/U/aI}}$ ${\color{#a18e89}{aOhi[D]/E/g}}$ 
+
+
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=iwz5ivqfk4meassz2wh9vv0kg&redirect=true">
